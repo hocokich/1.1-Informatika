@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\bin\Debug\inf1.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\bin\Debug\inf1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\bin\Debug\inf1.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\obj\Debug\ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\obj\Debug\inf1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf1\ex1\obj\Debug\inf1.pdb

@@ -1,0 +1,32 @@
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\App.g.cs
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2_MarkupCompile.cache
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2_MarkupCompile.lref
+C:\Users\1\Desktop\inf2\inf2\bin\Debug\inf2.exe.config
+C:\Users\1\Desktop\inf2\inf2\bin\Debug\inf2.exe
+C:\Users\1\Desktop\inf2\inf2\bin\Debug\inf2.pdb
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.g.resources
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.Properties.Resources.resources
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.csproj.GenerateResource.cache
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.exe
+C:\Users\1\Desktop\inf2\inf2\obj\Debug\inf2.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\bin\Debug\inf2.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\bin\Debug\inf2.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\bin\Debug\inf2.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\App.g.cs
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2_MarkupCompile.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2_MarkupCompile.lref
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.g.resources
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.Properties.Resources.resources
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.csproj.GenerateResource.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf2\inf2\obj\Debug\inf2.pdb
