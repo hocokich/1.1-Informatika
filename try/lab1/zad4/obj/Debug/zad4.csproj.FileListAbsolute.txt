@@ -1,8 +1,0 @@
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\obj\Debug\zad4.csproj.SuggestedBindingRedirects.cache
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\bin\Debug\zad4.exe.config
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\bin\Debug\zad4.exe
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\bin\Debug\zad4.pdb
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\obj\Debug\zad4.exe
-C:\Users\1\Desktop\вуз\1.1\инфа\try\lab1\zad4\obj\Debug\zad4.pdb
