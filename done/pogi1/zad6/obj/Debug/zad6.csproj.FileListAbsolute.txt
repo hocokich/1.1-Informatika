@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\bin\Debug\zad6.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\bin\Debug\zad6.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\bin\Debug\zad6.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\obj\Debug\zad6.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\obj\Debug\zad6.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\obj\Debug\zad6.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\obj\Debug\zad6.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad6\obj\Debug\zad6.pdb

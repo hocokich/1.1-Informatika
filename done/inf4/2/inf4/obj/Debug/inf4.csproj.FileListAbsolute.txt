@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\App.g.cs
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4_MarkupCompile.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4_MarkupCompile.lref
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\bin\Debug\inf4.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\bin\Debug\inf4.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\bin\Debug\inf4.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.g.resources
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.Properties.Resources.resources
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.csproj.GenerateResource.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\inf4\2\inf4\obj\Debug\inf4.pdb

@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\bin\Debug\teoria1.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\bin\Debug\teoria1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\bin\Debug\teoria1.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\obj\Debug\teoria1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad1\obj\Debug\teoria1.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\bin\Debug\teoria1.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\bin\Debug\teoria1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\bin\Debug\teoria1.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\obj\Debug\teoria1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad1\obj\Debug\teoria1.pdb

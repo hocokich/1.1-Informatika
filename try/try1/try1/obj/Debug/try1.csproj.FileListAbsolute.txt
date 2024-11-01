@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\bin\Debug\try1.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\bin\Debug\try1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\bin\Debug\try1.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\obj\Debug\try1.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\obj\Debug\try1.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\obj\Debug\try1.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\obj\Debug\try1.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\try1\try1\obj\Debug\try1.pdb

@@ -1,0 +1,24 @@
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\bin\Debug\zad3.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\bin\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\bin\Debug\zad3.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\obj\Debug\zad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\obj\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\teoria1\zad3\obj\Debug\zad3.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\obj\Debug\zad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\obj\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\obj\Debug\zad3.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\bin\Debug\zad3.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\bin\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\try\pogi1\zad3\bin\Debug\zad3.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\bin\Debug\zad3.exe.config
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\bin\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\bin\Debug\zad3.pdb
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\obj\Debug\zad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\obj\Debug\zad3.exe
+C:\Users\1\Desktop\вуз\1.1\инфа\готовые лабы\pogi1\zad3\obj\Debug\zad3.pdb
